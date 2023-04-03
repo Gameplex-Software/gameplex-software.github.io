@@ -6,5 +6,7 @@ If you were taken here my our main site itprobably mans we are experiencing an o
 ## Top Projects
 
 [SkiffUI](https://gameplex-software.github.io/skiffui)
-[SkiffUI](https://gameplex-software.github.io/shiphelm)
-[SkiffUI](https://gameplex-software.github.io/shipwreck)
+
+[ShipHelm](https://gameplex-software.github.io/shiphelm)
+
+[ShipWreck](https://gameplex-software.github.io/shipwreck)
