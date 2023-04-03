@@ -7,6 +7,6 @@ If you were taken here my our main site itprobably mans we are experiencing an o
 
 [SkiffUI](https://gameplex-software.github.io/skiffui)
 
-[ShipHelm](https://gameplex-software.github.io/shiphelm)
+[ShipHelm](https://gameplex-software.github.io/ShipHelm)
 
-[ShipWreck](https://gameplex-software.github.io/shipwreck)
+[ShipWreck](https://gameplex-software.github.io/Shipwreck)
